@@ -1,0 +1,74 @@
+body{
+    font-family: 'Merriweather', serif;
+    background-image: url("2.jpg");
+    font-size: 1.2rem;
+    background-size: cover;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+    text-align: center;
+    margin-left: 29.5rem;
+    color: #41adb4dc;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+}
+
+.nav-link{
+    color: rgb(0, 66, 128)!important;
+}
+
+.nav-link:hover{
+    background-color: turquoise;
+}
+
+
+.my-info{
+    padding: 2rem 5rem;
+    color: rgba(0, 0, 0, 0.829);
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgba(78, 153, 223, 0.699)!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(78, 153, 223)!important;
+}
+
+.ab
+{
+    background-color: #d0ecff8e;
+    border-radius: 50px;
+    margin-left: 9rem;
+    margin-right: 9rem;
+    text-align: center;
+    font-family: 'Times Roman', serif;
+}
+.table-ligh
+{
+    font-family: 'Times Roman', serif;
+    background-color: #b9e2fdb0;
+}
+.table-ligh:hover
+{
+    background-color: #bee1f8f6;
+}
+.table-inf
+{
+    font-family: 'Times Roman', serif;
+    background-color:#caeaffc9;
+}
+.table-inf:hover
+{
+    background-color: #bee1f8f6;
+}
+.table-light{
+    background-color: blueviolet;
+    font-weight: bold;
+}
